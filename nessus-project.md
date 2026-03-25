@@ -32,21 +32,19 @@ The objective of this project is to scan a target system and detect security vul
 ### Nessus Dashboard
 This screenshot shows the Nessus dashboard after logging into the vulnerability scanner.
 
-![Dashboard]("Screenshot (65).png")
+![Dashboard](post1.png)
 
 ---
 
 ### Scan Configuration
 This screenshot shows the scan configuration settings.
 
-![Scan Config](Screenshot (66).png)
+![Scan Config](post2.png)
 
 ---
 
 ### Vulnerability Results
 This screenshot displays vulnerabilities detected in the target system.
-
-![Scan Result](Screenshot (67).png)
 
 ---
 
